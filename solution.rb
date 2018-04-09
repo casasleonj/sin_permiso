@@ -1,7 +1,7 @@
 require "sinatra"
 
 error 403 do
- "Sin permiso"
+ "Sin Permiso"
 	end
 
 get '/' do
